@@ -1,3 +1,4 @@
 First line in the third file.
 Second line in the third file.
 Third line in the third file.
+Fourth line in the third file.
